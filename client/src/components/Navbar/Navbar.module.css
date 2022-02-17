@@ -1,0 +1,11 @@
+.link {
+	text-decoration: none;
+	color: white;
+	font-weight: bold;
+}
+
+.bar {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
